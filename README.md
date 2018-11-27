@@ -59,4 +59,4 @@ Este programa es muy importante por una simple razón , la cual es que la vegeta
 - [http://gidahatari.com/ih-es/calculo-del-indice-de-vegetacion-ndvi-de-imagenes-landsat-8-con-qgis](http://gidahatari.com/ih-es/calculo-del-indice-de-vegetacion-ndvi-de-imagenes-landsat-8-con-qgis)
 - [https://ers.cr.usgs.gov/login?RET\_ADDR=https://ers.cr.usgs.gov](https://ers.cr.usgs.gov/login?RET_ADDR=https://ers.cr.usgs.gov)
 poster:
-
+https://github.com/Canelo13/pygeogreen/blob/master/poster.pptx
