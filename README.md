@@ -32,7 +32,7 @@ orotofoto o un mapa vectorizado para que esto funcionara, tambien nosw dimos cun
 
 Para la realizacion del calculo de NDVI primero lo realizamos de una manera normla con una imagen .tiff descagada de la pagina para ver que funcionara bien el programa una vez que logramos que el programa funcionara con una solo imagen comenzamos a probar con varias imágenes a la vez para ver como reaccionaba el programa al trabajar con varios archivos a la vez y ver si dicho programa tenia la capacidad de trabajar bajo marcha forzada por lo que nos dimos cuenta el programa puede trabajar ,uy bien con varias archivos a la vez siemore y cuando la computadora sobre la que estas trabajando los soprte.
 
-
+https://github.com/Canelo13/pygeogreen/blob/master/imagen.png
 
 Lo primero que intentamos fue que el programa que calcularia el NDVI estuviera bien echo despues comenzamos a ver lo de la lectura de varios .tif descargados de la pagina y luego comenzamos a ver como le hariamos para que el .tiff que seria nuestro resultado quedara georreferenciado.
 
